@@ -1,0 +1,5 @@
+Logs
+.config
+
+# how to add all files in project to git
+git add .
